@@ -152,16 +152,3 @@ public class OX {
         return scoreDraw;
     }
 }
-
-    public int getScoreX() {
-        return scoreX;
-    }
-
-    public int getScoreO() {
-        return scoreO;
-    }
-
-    public int getScoreDraw() {
-        return scoreDraw;
-    }
-}
