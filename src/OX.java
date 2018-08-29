@@ -1,3 +1,4 @@
+public class OX {
 public Object switchPlayer;
         String table[][] = {
                 {" ", "0", "1", "2"},
